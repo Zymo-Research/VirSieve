@@ -1,0 +1,3 @@
+[submodule "VirSieveAlign"]
+	path = VirSieveAlign
+	url = git@github.com:Zymo-Research/VirSieveAlign.git
