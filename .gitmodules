@@ -7,3 +7,6 @@
 [submodule "VirSieveGATK"]
 	path = VirSieveGATK
 	url = git@github.com:Zymo-Research/VirSieveGATK.git
+[submodule "VirSieveVEP"]
+	path = VirSieveVEP
+	url = git@github.com:Zymo-Research/VirSieveVEP.git
