@@ -1,4 +1,4 @@
-containerTable = {
+containerTagTable = {
     "virsievealign": "VirSieveAlign",
     "virsieveivar": "VirSieveIVar",
     "virsievegatk": "VirsieveGATK",
