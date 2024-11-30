@@ -1,0 +1,15 @@
+[submodule "VirSieveAlign"]
+	path = VirSieveAlign
+	url = https://github.com/Zymo-Research/VirSieveAlign.git
+[submodule "VirSieveIVar"]
+	path = VirSieveIVar
+	url = https://github.com/Zymo-Research/VirSieveIVar.git
+[submodule "VirSieveGATK"]
+	path = VirSieveGATK
+	url = https://github.com/Zymo-Research/VirSieveGATK.git
+[submodule "VirSieveVEP"]
+	path = VirSieveVEP
+	url = https://github.com/Zymo-Research/VirSieveVEP.git
+[submodule "virsievefreyja"]
+	path = virsievefreyja
+	url = https://github.com/Zymo-Research/virsievefreyja.git
