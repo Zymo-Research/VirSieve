@@ -12,7 +12,6 @@ of emerging and established viral variants using wastewater-based epidemiology.
 ### Announcements
 We are sponsoring a wastewater-based epidemiology symposium in January 2025. [Click here to register](https://www.wastewateramr2025.com/)
 )
-![image](https://eventcreate-v1.s3.us-west-1.amazonaws.com/uploads%2F4ca0bba1-c9d9-4167-99b9-522ce7bd6778%2Fshutterstock_1695930649.jpg)
 ## [Microbes in Wastewater](https://www.wastewateramr2025.com/) 
 ### Antibiotic Resistance, Public Health, and Climate Change 
 #### January 16-17, 2025 | Newport Beach, California 
